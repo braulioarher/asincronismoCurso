@@ -18,3 +18,14 @@ XLM HTTP Request es un objeto que esta dentro de JavaScript que permite hacer pe
                     npm install xmlhttpreques --save
 Fetch no se usa porque esta disponible a partir ECMAScript 6 y funciona con promesa en esta ocasion estamos trabjando con callbacks
 
+En el primer ejemplo se uso el protocolo XML junto con los callbacks
+
+## Asincronismo con promesas
+
+Se puede usar el asicronismo con callbacks, promesas y async y await
+
+Los callbacks son universales lo que quiere decir que corre en cualquier navegador
+
+Las promesas 
+
+Async y await es mas amigable de comprender que las promesas
